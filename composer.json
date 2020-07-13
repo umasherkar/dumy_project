@@ -1,0 +1,17 @@
+{
+    "name": "umas/umashinde",
+    "description": "First Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uma shinde",
+            "email": "umabshinde@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload":{
+		"psr-4":{"HelloWorld\\" : "src/"	}
+	}
+}
